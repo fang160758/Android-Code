@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CalcuationDemo3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="hight_score">Hight Score:%d</string>
+    <string name="title">Calcuation Game</string>
+    <string name="enter">ENTER</string>
+    <string name="version">1.0.0beta</string>
+    <string name="title_imag">TITLE_IMAG</string>
+    <string name="exit_button">EXIT</string>
+    <string name="again_button">AGAIN</string>
+    <string name="show_score">YOUR SCORE:%d</string>
+    <string name="show_now_score">Score:%d</string>
+    <string name="left_number">""</string>
+    <string name="operation" />
+    <string name="right_number" />
+    <string name="equel">=</string>
+    <string name="answer">\?</string>
+    <string name="show_answer" >Your answer</string>
+    <string name="number_button1">1</string>
+    <string name="number_button2">2</string>
+    <string name="number_button3">3</string>
+    <string name="number_button4">4</string>
+    <string name="number_button5">5</string>
+    <string name="number_button6">6</string>
+    <string name="number_button7">7</string>
+    <string name="number_button8">8</string>
+    <string name="number_button9">9</string>
+    <string name="number_button0">0</string>
+    <string name="buttonC">C</string>
+    <string name="buttonE">E</string>
+    <string name="level">20</string>
+    <string name="todo11">TODO</string>
+    <string name="answer_correct">Correct! Go on!</string>
+    <string name="back_message">Are You Sure?</string>
+    <string name="dialog_positive_message">OK</string>
+    <string name="dialog_negative_message">Calec</string>
+
+</resources>

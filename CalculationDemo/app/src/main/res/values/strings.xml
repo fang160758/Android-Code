@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CalculationDemo</string>
+    <string name="exit_button">exit</string>
+    <string name="again_button">Again</string>
+    <string name="win_amg">WIN</string>
+    <string name="button1">1</string>
+    <string name="button3">3</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button4">4</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+    <string name="buttonC">C</string>
+    <string name="button_Enter">E</string>
+    <string name="equel_smb">=</string>
+    <string name="ans_smb">\?</string>
+    <string name="version">1.0.0beta</string>
+    <string name="history_high_sorces">High Scorce:%d</string>
+    <string name="Title">Calculation Test</string>
+    <string name="enter">ENTER</string>
+    <string name="todo">TODO</string>
+    <string name="now_scroce">Scroce:%d</string>
+    <string name="Win_mage">win</string>
+</resources>

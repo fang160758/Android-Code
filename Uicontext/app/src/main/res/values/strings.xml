@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uicontext</string>
+    <string name="textview">Message</string>
+    <string name="button">左</string>
+    <string name="button1">右</string>
+    <string name="imgview">img</string>
+    <string name="radiobutton1">android</string>
+    <string name="radiobutton2">apple</string>
+    <string name="button3">确认</string>
+    <string name="numberview">enter a number</string>
+</resources>

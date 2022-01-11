@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">localzation</string>
+    <string name="textview">messag</string>
+    <string name="textview1">Welcome</string>
+    <string name="button">Enter</string>
+    <string name="message">This is a message</string>
+</resources>
